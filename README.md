@@ -1,5 +1,5 @@
 # Particle Life - Simulation de Vie Artificielle
-Une simulation évolutive de vie artificielle basée sur des particules avec algorithme génétique, développée en Rust avec le moteur de jeu Bevy et accélération GPU.
+Une simulation évolutive de vie artificielle basée sur des particules avec algorithme génétique, développée en Rust avec le moteur de jeu Bevy ~~et accélération GPU~~.
 
 <p align="center">
   <img src="https://github.com/Onsraa/particle-life/blob/main/assets/gifs/simulated-particles.gif?raw=true" alt="Description du GIF" />
